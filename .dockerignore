@@ -1,3 +1,6 @@
 venv/
 __pycache__/
 .git/
+mlruns/
+mlflow.db
+screenshots/
